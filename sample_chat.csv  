@@ -1,0 +1,11 @@
+date,user,message,year,month,day,hour,minute,second
+2024-01-01 10:15:00,User A,Happy New Year! 🥳🎉,2024,1,1,10,15,0
+2024-01-01 10:20:00,User B,Thank you! 😊,2024,1,1,10,20,0
+2024-02-14 21:05:00,User A,Happy Valentine's ❤️,2024,2,14,21,5,0
+2024-03-05 18:30:00,User C,Project discussion at 7? 🧑‍💻,2024,3,5,18,30,0
+2024-03-05 18:32:00,User B,Sure 👍,2024,3,5,18,32,0
+2024-04-10 09:00:00,User A,Exam prep time 📚,2024,4,10,9,0,0
+2024-04-10 09:10:00,User C,All the best 💪,2024,4,10,9,10,0
+2024-05-01 12:00:00,User B,Lunch? 🍕,2024,5,1,12,0,0
+2024-05-01 12:05:00,User A,Coming 😄,2024,5,1,12,5,0
+2024-06-15 20:45:00,User C,Movie night 🎬🍿,2024,6,15,20,45,0
